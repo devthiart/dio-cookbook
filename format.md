@@ -1,3 +1,5 @@
+ More about Markdown Syntax in [Markdown Guide](https://www.markdownguide.org/basic-syntax)
+
 # H1
 ## H2
 ### H3
@@ -19,4 +21,6 @@ _Italic_
  - [ ] Task List 1
  - [ ] Task List 2
  - [x] Task List 3
+ 
+[Link to my portfolio website](https://www.devthiart.com)
  
